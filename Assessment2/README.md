@@ -33,3 +33,21 @@ The trained model was evaluated using unseen test questions from the Hendrycks M
 Dataset source:
 ```python
 EleutherAI/hendrycks_math
+
+## Subjects Used
+
+- Algebra
+- Geometry
+- Number Theory
+- Prealgebra
+- Precalculus
+- Intermediate Algebra
+- Counting and Probability
+
+## Future Improvements
+
+- Increase training epochs
+- Improve prompt engineering
+- Use larger evaluation datasets
+- Experiment with larger Qwen Math models
+- Apply chain-of-thought prompting
