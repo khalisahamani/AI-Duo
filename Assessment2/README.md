@@ -2,9 +2,9 @@
 
 This folder contains all files and documentation for Assessment 2.
 
-# Fine-Tuning Qwen2.5-Math-1.5B on Hendrycks Math Dataset
+Model: Qwen2.5-Math-1.5B on Hendrycks Math Dataset
 
-This project focuses on fine-tuning the `Qwen/Qwen2.5-Math-1.5B` large language model using the `EleutherAI/hendrycks_math` dataset from Hugging Face. The objective of this project is to improve the model’s mathematical reasoning capability in solving olympiad-style math problems through parameter-efficient fine-tuning techniques.
+This project focuses on the `Qwen/Qwen2.5-Math-1.5B` large language model using the `EleutherAI/hendrycks_math` dataset from Hugging Face. The objective of this project is to improve the model’s mathematical reasoning capability in solving olympiad-style math problems through parameter-efficient fine-tuning techniques.
 
 The project combines multiple mathematical subjects including algebra, geometry, number theory, prealgebra, precalculus, intermediate algebra and counting & probability into a single dataset for training. The dataset was preprocessed into a structured prompt-and-solution format to help the model learn step-by-step mathematical reasoning.
 
