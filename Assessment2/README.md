@@ -29,11 +29,6 @@ The trained model was evaluated using unseen test questions from the Hendrycks M
 - BitsAndBytes
 - Google Colab
 
-## Dataset
-Dataset source:
-```python
-EleutherAI/hendrycks_math
-
 ## Subjects Used
 
 - Algebra
